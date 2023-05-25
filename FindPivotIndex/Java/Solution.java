@@ -14,7 +14,7 @@ public class Solution {
             //sums are set to 0 after each iteration.
             leftSum = 0;
             rightSum = 0;
-           // if index i is not 0 we iterate through the left side
+            // if index i is not 0 we iterate through the left side
             // of the array after the current index.
             if (i != 0) {
                 for (int j = i - 1; j >= 0; j--) {
