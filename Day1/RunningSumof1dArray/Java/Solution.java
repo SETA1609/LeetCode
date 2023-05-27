@@ -1,4 +1,4 @@
-package RunningSumof1dArray.Java;
+package Day1.RunningSumof1dArray.Java;
 
 public class Solution {
     public int[] runningSum(int[] nums) {

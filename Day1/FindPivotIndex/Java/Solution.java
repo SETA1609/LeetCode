@@ -1,4 +1,4 @@
-package FindPivotIndex.Java;
+package Day1.FindPivotIndex.Java;
 
 public class Solution {
 
